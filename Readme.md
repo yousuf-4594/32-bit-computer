@@ -10,7 +10,7 @@ to convert it into 32bit computer
 
 meanwhile supports calculations around the scope of:
 
-int a
+int a\n
 bool a2 
 char a3 
 int a4[3] 
